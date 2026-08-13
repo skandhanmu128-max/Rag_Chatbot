@@ -1,0 +1,9 @@
+.env
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.next/
+documind.db
+*.faiss
