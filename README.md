@@ -1,5 +1,6 @@
 # Domain-Specific RAG Chatbot Platform 🚀
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ragchatbot-pn5um3cnysbas2me7dsfty.streamlit.app/)
 **An enterprise-grade, end-to-end Retrieval-Augmented Generation (RAG) platform. Features dynamic Google Gemini LLM routing, FAISS vector embeddings, secure PDF chunking, and multimodal capabilities including Voice-to-Text and Text-to-Voice. Built with a responsive Next.js/Streamlit UI and a robust FastAPI backend for seamless document querying.**
 
 ---
