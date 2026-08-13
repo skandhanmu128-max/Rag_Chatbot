@@ -80,8 +80,9 @@ with st.sidebar:
         st.rerun()
 
 # --- Main Panel ---
-st.title("Domain-Specific RAG Chatbot 📄🎙️")
-st.info("Answers are generated purely from uploaded documents. You can type or use the microphone to speak your question!")
+st.title("Domain-Specific RAG Chatbot 📄")
+st.markdown("**An enterprise-grade, end-to-end Retrieval-Augmented Generation (RAG) platform. Features dynamic Google Gemini LLM routing, FAISS vector embeddings, secure PDF chunking, and multimodal capabilities including Voice-to-Text and Text-to-Voice. Built with a responsive Next.js/Streamlit UI and a robust FastAPI backend for seamless document querying.**")
+st.markdown("*Answers are generated purely from uploaded documents. Please verify critical information.*")
 
 # Render Chat History
 for message in st.session_state.messages:
