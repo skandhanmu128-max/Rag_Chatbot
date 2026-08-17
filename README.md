@@ -62,4 +62,4 @@ You will need a `.env` file in the root of the backend or streamlit applications
 ```env
 GEMINI_API_KEY="your_google_api_key_here"
 ```
-*(Note: Do not commit your `.env` file to version control!)*
+
